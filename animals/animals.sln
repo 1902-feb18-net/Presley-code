@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.UI", "Animals.UI\Animals.UI.csproj", "{133A42E8-33BC-4251-B49E-C297E2CE906C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.Library", "animals.library\Animals.Library.csproj", "{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{133A42E8-33BC-4251-B49E-C297E2CE906C}.Release|x64.Build.0 = Release|Any CPU
 		{133A42E8-33BC-4251-B49E-C297E2CE906C}.Release|x86.ActiveCfg = Release|Any CPU
 		{133A42E8-33BC-4251-B49E-C297E2CE906C}.Release|x86.Build.0 = Release|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Debug|x64.Build.0 = Debug|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Debug|x86.Build.0 = Debug|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Release|x64.ActiveCfg = Release|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Release|x64.Build.0 = Release|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Release|x86.ActiveCfg = Release|Any CPU
+		{A51FEBF0-FC58-4D86-BD31-57E0E2CB9BDB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
